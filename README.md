@@ -1,7 +1,7 @@
  
-<h1 align="center">Hi 👋, I'm Soumadeep Chakraborty</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=RAZE24003&theme=midnight-purple&show_icons=true">
+<h1 align="left">Hi 👋, I'm Soumadeep Chakraborty</h1>
+<h3 align="left">A passionate frontend developer from India</h3>
+<div align="left" ><img src="https://github-readme-stats.vercel.app/api?username=RAZE24003&theme=midnight-purple&show_icons=true"></div> 
 
 
 <h3 align="left">Connect with me:</h3>
