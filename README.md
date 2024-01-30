@@ -16,4 +16,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raze24003&show_icons=true&locale=en&layout=compact" alt="raze24003" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raze24003&show_icons=true&locale=en" alt="raze24003" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=RAZE24003&theme=midnight-purple&show_icons=true"> 
